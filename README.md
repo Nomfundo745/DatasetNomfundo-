@@ -4,7 +4,7 @@ This dataset is a MATLAB .mat file designed for signal detection and spectrum se
 
 The dataset is suitable for applications in:
 
-Cognitive radio systems
-Spectrum sensing algorithms
-Machine learning-based signal detection
+Cognitive radio systems,
+Spectrum sensing algorithms,
+Machine learning-based signal detection,
 Wireless communication research and simulations
